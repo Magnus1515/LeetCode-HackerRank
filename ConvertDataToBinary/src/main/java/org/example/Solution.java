@@ -38,7 +38,8 @@ public class Solution {
     public static String convertDateToBinary(String date) {
 
 //        int dateInteger = Integer.parseInt(date);
-        
+
+
         String month = "";
         String day = "";
         String year = "";

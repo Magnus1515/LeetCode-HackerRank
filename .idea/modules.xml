@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Find-Target-Indices-After-Sorting-Array/Find-Target-Indices-After-Sorting-Array.iml" filepath="$PROJECT_DIR$/Find-Target-Indices-After-Sorting-Array/Find-Target-Indices-After-Sorting-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode-HackerRank.iml" filepath="$PROJECT_DIR$/.idea/LeetCode-HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest-common-prefix/longest-common-prefix.iml" filepath="$PROJECT_DIR$/longest-common-prefix/longest-common-prefix.iml" />
+    </modules>
+  </component>
+</project>
