@@ -9,7 +9,16 @@
         <option value="$PROJECT_DIR$/FindLuckyIntegerInAnArray/pom.xml" />
         <option value="$PROJECT_DIR$/MergeTwoSortedLists/pom.xml" />
         <option value="$PROJECT_DIR$/FibonacciNumber/pom.xml" />
+        <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/pom.xml" />
+        <option value="$PROJECT_DIR$/Finding3DigitEvenNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/3392/pom.xml" />
+        <option value="$PROJECT_DIR$/CountSubarraysofLengthThreeWithaCondition/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/3392/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_23" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">

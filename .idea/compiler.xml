@@ -7,13 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BaseballGame" />
-        <module name="FibonacciNumber" />
-        <module name="ConvertDataToBinary" />
+        <module name="CountSubarraysofLengthThreeWithaCondition" />
         <module name="FindLuckyIntegerInAnArray" />
         <module name="MergeTwoSortedLists" />
+        <module name="Finding3DigitEvenNumbers" />
+        <module name="FibonacciNumber" />
+        <module name="ConvertDataToBinary" />
+        <module name="RemoveDuplicatesfromSortedArray" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="3392" target="21" />
       <module name="CheckIfTwoChessboardSquaresHavetheSameColor" target="21" />
     </bytecodeTargetLevel>
   </component>
