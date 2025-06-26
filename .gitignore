@@ -4,7 +4,7 @@
 *.iml
 *.ipr
 *.iws
-
+.idea/compiler.xml
 # Java build outputs
 target/
 build/
